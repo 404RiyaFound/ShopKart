@@ -20,7 +20,7 @@ A full-stack e-commerce app: customer auth, product catalog with search and cate
 ## Setup
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/404RiyaFound/ShopKart>
 cd ShopKart
 ```
 
