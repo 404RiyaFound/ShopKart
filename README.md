@@ -2,7 +2,9 @@
 
 A full-stack e-commerce app: customer auth, product catalog with search and category filters, wishlist, shopping cart, and checkout with Razorpay (test mode) and order history.
 
-**Live demo:** _add link after deployment_ · **Backend API:** _add link after deployment_
+**Live demo:** https://shopkart-steel.vercel.app · **Backend API:** https://shopkart-dc5v.onrender.com
+
+> The backend runs on Render's free tier and sleeps when idle, so the first request can take 30-60 seconds.
 
 ## Tech stack
 
@@ -20,7 +22,7 @@ A full-stack e-commerce app: customer auth, product catalog with search and cate
 ## Setup
 
 ```bash
-git clone <https://github.com/404RiyaFound/ShopKart>
+git clone https://github.com/404RiyaFound/ShopKart.git
 cd ShopKart
 ```
 
